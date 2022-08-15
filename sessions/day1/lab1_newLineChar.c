@@ -1,3 +1,5 @@
+// Goal is to get familiar with printf() and escape sequence in C language 
+
 #include <stdio.h>
 
 int main()
