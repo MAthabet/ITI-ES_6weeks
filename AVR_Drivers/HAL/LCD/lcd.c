@@ -1,5 +1,5 @@
 #include "lcd.h"
-#include "../../MCAL/DIO/dio.h"
+#include "../../MCAL/dio.h"
 #include <stdio.h>
 #include <avr/io.h>
 #include <stdint.h>
