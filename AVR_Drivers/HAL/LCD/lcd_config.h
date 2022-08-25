@@ -14,7 +14,8 @@
 #define LCD_EN_PIN      P2
 
 /******* LCD DATA pins *******/
-//user MUST set all data pins on the same port
+//user MUST set all data pins on the same port 
+//different ports to be supported later
 #define LCD_DATA_PORT   DIOC
 
 //LCD mode
